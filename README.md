@@ -11,8 +11,7 @@ I'm currently studying React, Vue, Angular, C and Shell.
 
 I've always had great ideas and now I'm working on a scalable and very profitable idea.
 
-In addition I am building my portfolio, adding several simple projects, but that help to understand programming languages ​​even more.
-
+In addition I am building my portfolio, adding several simple projects, but that help to understand programming languages ​​even more. You can find some of them on https://oskadoskaposka.github.io/
 
 
 I also have a project of an exclusive travel agency for the gamer audience that went wrong because of the coronavirus pandemic and that I would be very happy to explain to someone who takes it off the ground and makes it happen.
