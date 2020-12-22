@@ -52,14 +52,17 @@
 
 ---
 
+### My projects
 <p>I've always had great ideas and now I'm working on a scalable and very profitable idea.</p>
 
 <p>I also have a project of an exclusive travel agency for the gamer audience that went wrong because of the coronavirus pandemic and that I would be very happy to explain to someone who takes it off the ground and makes it happen.</p>
 
 ---
 
+### Contact
+
 <br>
-<p>To find me, just send a message through the social networks below:</p>
+<p>To find me, just send a DM:</p>
 <img align="left" src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white' alt='discord' />
 <img align="left" src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail' />
 <img align="left" src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' />
@@ -70,12 +73,9 @@
 <br><br>
 
 <p>See you later!!</p>
-<img align="left" src="https://badges.pufler.dev/visits/oskadoskaposka/oskadoskaposka" alt="Visitors badge" />
+<img align="right" src="https://badges.pufler.dev/visits/oskadoskaposka/oskadoskaposka" alt="Visitors badge" />
 
-
-
-
-
+<br><br>
 
 
 <!--
@@ -91,4 +91,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Para fazer uma lista para selecionar oq exibir
+<details>
+<summary>Lista</summary>
+Itens
+</details>
+
 -->
