@@ -5,7 +5,7 @@
 
 ---
 
-<img src="./giphy.gif" alt="some random stuff in a blue sky" align="left" />
+<img src="./giphy.gif" alt="some random stuff in a blue sky" align="left" width="17%"/>
 
 ### What I do in my life?
 <p>Today I am a cadet at 42 São Paulo and I am finishing a Full Stack Web Development course at Digital House.</p>
@@ -38,11 +38,20 @@
 <img align="left" src='https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white' alt='Microsoft Excel' />
 <br><br>
 
-### My projects
-<p>I'm still building my portfolio, adding several simple projects, but that help to understand programming languages ​​even more. You can find some of them <a href="https://oskadoskaposka.github.io/">HERE!</a> </p>
-
 ---
 
+### My codes
+<p>I'm still building my portfolio, adding several simple projects, but that help to understand programming languages ​​even more. You can find some of them <a href="https://oskadoskaposka.github.io/">HERE!</a> </p>
+<br>
+
+<img align='left' src='https://github-readme-stats.vercel.app/api?username=oskadoskaposka&theme=nord&hide=prs&show_icons=true' alt='Github Stats' /> 
+<img align='left' src='https://github-readme-stats.vercel.app/api/top-langs?username=oskadoskaposka&theme=nord&show_icons=true&layout=compact' alt='Github Languages' />
+
+<br><br><br>
+<br><br><br>
+<br>
+
+---
 
 <p>I've always had great ideas and now I'm working on a scalable and very profitable idea.</p>
 
