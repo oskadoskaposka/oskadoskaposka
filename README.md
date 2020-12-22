@@ -25,8 +25,8 @@
 <img align="left" src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' alt='C' />
 <img align="left" src='https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white' alt='Shell Script' />
 <br>
-<img align="left" src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' alt='MySQL' />
 <img align="left" src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' alt='MongoDB' />
+<img align="left" src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' alt='MySQL' />
 
 <br><br><br>
 
