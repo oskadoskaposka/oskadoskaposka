@@ -1,3 +1,5 @@
+![](http://gph.is/2llu8q1.gif)
+
 ### Hi, I'm Ale!
 
 A guy who has worked in the financial department of major Brazilian travel groups for the past 7 years and has now decided to work with development.
@@ -22,6 +24,13 @@ To find me, just send a message through the social networks below:
 
 
 See you later!!
+
+
+
+
+
+
+
 
 <!--
 **oskadoskaposka/oskadoskaposka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
