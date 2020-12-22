@@ -32,9 +32,7 @@
 <img align="left" src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' alt='MongoDB' />
 <img align="left" src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' alt='MySQL' />
 </div>
-
-<br><br><br>
-
+<br><br>
 <p>I also have a lot of experience with integrating microsoft Office through VBA and I am an expert in Excel</p>
 <img align="left" src='https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white' alt='Microsoft Office' />
 <img align="left" src='https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white' alt='Microsoft Excel' />
