@@ -1,4 +1,4 @@
-![](http://gph.is/2llu8q1.gif)
+![](http://gph.is/2llu8q1)
 
 ### Hi, I'm Ale!
 
