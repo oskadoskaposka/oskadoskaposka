@@ -47,9 +47,8 @@
 <img align='left' src='https://github-readme-stats.vercel.app/api?username=oskadoskaposka&theme=nord&hide=prs&show_icons=true' alt='Github Stats' width="55%" /> 
 <img align='left' src='https://github-readme-stats.vercel.app/api/top-langs?username=oskadoskaposka&theme=nord&show_icons=true&layout=compact' alt='Github Languages' width="40%" />
 </div>
-
-<br><br>
-<br><br>
+<br><br><br>
+<br><br><br>
 <br><br>
 
 ---
