@@ -5,7 +5,7 @@
 
 ---
 
-<img src="./giphy.gif" alt="some random stuff in a blue sky" align="right" />
+<img src="./giphy.gif" alt="some random stuff in a blue sky" align="left" />
 
 ### What I do in my life?
 <p>Today I am a cadet at 42 São Paulo and I am finishing a Full Stack Web Development course at Digital House.</p>
@@ -26,13 +26,13 @@
 <img align="left" src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' alt='C' />
 <img align="left" src='https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white' alt='Shell Script' />
 </div>
-<br>
-<br>
+<br><br>
 <div>
 <img align="left" src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' alt='MongoDB' />
 <img align="left" src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' alt='MySQL' />
 </div>
 <br><br>
+
 <p>I also have a lot of experience with integrating microsoft Office through VBA and I am an expert in Excel</p>
 <img align="left" src='https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white' alt='Microsoft Office' />
 <img align="left" src='https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white' alt='Microsoft Excel' />
