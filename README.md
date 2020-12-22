@@ -44,8 +44,8 @@
 <p>I'm still building my portfolio, adding several simple projects, but that help to understand programming languages ​​even more. You can find some of them <a href="https://oskadoskaposka.github.io/">HERE!</a> </p>
 <br>
 
-<img align='left' src='https://github-readme-stats.vercel.app/api?username=oskadoskaposka&theme=nord&hide=prs&show_icons=true' alt='Github Stats' /> 
-<img align='left' src='https://github-readme-stats.vercel.app/api/top-langs?username=oskadoskaposka&theme=nord&show_icons=true&layout=compact' alt='Github Languages' />
+<img align='' src='https://github-readme-stats.vercel.app/api?username=oskadoskaposka&theme=nord&hide=prs&show_icons=true' alt='Github Stats' /> 
+<img align='' src='https://github-readme-stats.vercel.app/api/top-langs?username=oskadoskaposka&theme=nord&show_icons=true&layout=compact' alt='Github Languages' />
 
 <br><br><br>
 <br><br><br>
