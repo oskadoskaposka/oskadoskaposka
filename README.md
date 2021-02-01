@@ -87,7 +87,7 @@
 ---
 
 ### See you later!!
-<img align="right" src="https://badges.pufler.dev/visits/oskadoskaposka/oskadoskaposka" alt="Visitors badge" />
+<img align="right" src="https://komarev.com/ghpvc/?username=oskadoskaposka&color=lightgrey&style=flat&label=visitors" alt="Visitors badge" />
 
 <br><br>
 
