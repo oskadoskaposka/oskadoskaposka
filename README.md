@@ -1,7 +1,7 @@
 # Hi, I'm Alê!
 
 ### Who am I?
-<p>I'm a guy who has worked in the financial department of major Brazilian travel companies for the past 7 years and has now decided to work with web development.</p>
+<p>I'm a guy who has worked in the financial department of major Brazilian travel companies for the past 7 years and has now decided to work with development.</p>
 
 ---
 
