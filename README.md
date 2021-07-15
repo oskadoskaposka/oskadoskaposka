@@ -8,6 +8,7 @@
 <img src="./giphy.gif" alt="some random stuff in a blue sky" align="left" width="24.3%" />
 
 ### What I do in my life?
+
 <p>Today I am a cadet at 42 São Paulo and finished a Full Stack Web Development course at Digital House.</p>
 
 ### What technologies can I work with today?
