@@ -9,7 +9,7 @@
 
 ### What I do in my life?
 
-<p>Today I am a cadet at 42 São Paulo and finished a Full Stack Web Development course at Digital House.</p>
+<p>Today work at Keyrus as ServiceNow Developer and I am a cadet at 42 São Paulo.</p>
 
 ### What technologies can I work with today?
 <img align="left" src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' alt='javascript' />
