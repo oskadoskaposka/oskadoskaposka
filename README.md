@@ -80,9 +80,6 @@
 <a href='https://api.whatsapp.com/send?phone=5511954507011&text=Oi%20Al%C3%AA!!!'>
 	<img align="left" src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' alt='whatsapp' />
 </a>
-<a href='https://github.com/oskadoskaposka'>
-	<img align="left" src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' />
-</a>
 <br><br>
 
 ---
