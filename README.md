@@ -65,9 +65,9 @@ areas: windows, colors, events, textures, etc.
 
 42 Projects:
 
-![](./img/libfte.png)
-![](./img/get_next_linee.png)
-![](./img/ft_printfe.png)
+![https://github.com/oskadoskaposka/Libft](./img/libfte.png)
+![https://github.com/oskadoskaposka/gnl](./img/get_next_linee.png)
+![https://github.com/oskadoskaposka/ft_printf](./img/ft_printfe.png)
 ![](./img/born2beroote.png)
 
 ---
