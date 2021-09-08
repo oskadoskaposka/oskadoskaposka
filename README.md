@@ -63,7 +63,7 @@ Actually I'm focused in so long, a graphic design project, to improve my skills 
 areas: windows, colors, events, textures, etc.
 
 
-Complete projects:
+42 Projects:
 
 ![](./img/libfte.png)
 ![](./img/get_next_linee.png)
