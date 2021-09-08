@@ -5,7 +5,7 @@
 
 ---
 
-<img src="./giphy.gif" alt="some random stuff in a blue sky" align="left" width="24.3%" />
+<img src="./img/giphy.gif" alt="some random stuff in a blue sky" align="left" width="24.3%" />
 
 ### What I do in my life?
 
@@ -54,9 +54,21 @@
 ---
 
 ### My projects
-<p>I've always had great ideas and now I'm working on a scalable and very profitable idea.</p>
 
-<p>I also have a project of an exclusive travel agency for the gamer audience that went wrong because of the coronavirus pandemic and that I would be very happy to explain to someone who takes it off the ground and makes it happen.</p>
+<!-- <p>I've always had great ideas and now I'm working on a scalable and very profitable idea.</p>
+
+<p>I also have a project of an exclusive travel agency for the gamer audience that went wrong because of the coronavirus pandemic and that I would be very happy to explain to someone who takes it off the ground and makes it happen.</p> -->
+
+Actually I'm focused in so long, a graphic design project, to improve my skills in these
+areas: windows, colors, events, textures, etc.
+
+
+Complete projects:
+
+![](./img/libfte.png)
+![](./img/get_next_linee.png)
+![](./img/ft_printfe.png)
+![](./img/born2beroote.png)
 
 ---
 
