@@ -19,7 +19,7 @@
 <img align="left" src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge' alt='express' />
 <br><br>
 
-### What technologies am I currently studying?
+### What technologies am I currently studying? 
 <div display="block">
 <img align="left" src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='React' />
 <img align="left" src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D' alt='Vue' />
