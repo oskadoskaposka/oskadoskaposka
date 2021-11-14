@@ -100,6 +100,12 @@ areas: windows, colors, events, textures, etc.
 <br><br>
 
 ---
+### Hints!
+
+<p>TWO SCREENS VSCODE - A solution is to press CTRL+K and after releasing CTRL, press O. This will open the current file in a new window.</p>
+<p>Make a rule in makefile named git, to easely update commits</p>
+<p>...</p>
+---
 
 ### See you later!!
 <img align="right" src="https://komarev.com/ghpvc/?username=oskadoskaposka&color=lightgrey&style=flat&label=visitors" alt="Visitors badge" />
