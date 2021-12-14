@@ -64,15 +64,15 @@
 
 <p>I also have a project of an exclusive travel agency for the gamer audience that went wrong because of the coronavirus pandemic and that I would be very happy to explain to someone who takes it off the ground and makes it happen.</p> -->
 
-Actually I'm focused in so long, a graphic design project, to improve my skills in these
-areas: windows, colors, events, textures, etc.
-
+Actually I'm focused in pipex, a project to use pipes in bash!
 
 42 Projects:
 
 <a  href='https://github.com/oskadoskaposka/Libft'>![](./img/libfte.png)</a>
 <a  href='https://github.com/oskadoskaposka/gnl'>![](./img/get_next_linee.png)</a>
 <a  href='https://github.com/oskadoskaposka/ft_printf'>![](./img/ft_printfe.png)</a>
+<a  href='https://github.com/oskadoskaposka/so_long'>![](./img/so_longe.png)</a>
+
 <a  href=''>![](./img/born2beroote.png)</a>
 
 ---
