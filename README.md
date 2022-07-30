@@ -1,7 +1,9 @@
 # Hi, I'm Alê!
 
 ### Who am I?
-<p>I'm a guy who has worked in the financial department of major Brazilian travel companies for the past 7 years and has now decided to work with development. I'm passionate about games and know how things works.</p>
+<p>I'm a guy who has worked in the financial department of major Brazilian travel companies for 7 years and in 2020 decided to work with development. Also I'm a guy who love games and know how things works.
+
+OOOOh and now I'm opening a few diferents small business.</p>
 
 ---
 
@@ -9,7 +11,7 @@
 
 ### What I do in my life?
 
-<p>Work at Keyrus as ServiceNow Developer and a cadet at 42 São Paulo.</p>
+<p>Work at Aoop Cloud Solutions as ServiceNow Technical Consultant and currently focusing in my 3D Printing Company!.</p>
 
 ### What technologies can I work with today?
 <img align="left" src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' alt='javascript' />
