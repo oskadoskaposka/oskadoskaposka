@@ -1,137 +1,206 @@
-# Hi, I'm Alê!
+# Hi, I'm Alê! 👋
+
+<img src="./img/giphy.gif" alt="some random stuff in a blue sky" align="right" width="24%" />
 
 ### Who am I?
-<p>I'm a guy who has worked in the financial department of major Brazilian travel companies for 7 years and in 2020 decided to work with development. Also I'm a guy who love games and know how things works.
 
+I'm a developer who likes understanding **how things actually work**.
+
+I spent about 7 years working in the financial side of large Brazilian travel companies until, in 2020, I decided to completely change careers and move into software development.
+
+It turned out pretty well. 😅
+
+Today I work mainly with **ServiceNow, JavaScript, integrations, APIs and automation**, while still building random things whenever an idea gets stuck in my head.
+
+I like technology, games, hardware and figuring out how things work — sometimes even when I probably shouldn't be touching them.
+
+<br clear="both"/>
+
+---
+
+## 👨‍💻 What I do for a living
+
+Currently working at **Delfia Tech**, mainly with **ServiceNow development and enterprise integrations**.
+
+Most of my day involves:
+
+- ServiceNow development
+- JavaScript
+- Business Rules & Script Includes
+- Flow Designer and automation
+- REST APIs & integrations
+- Service Portal
+- Troubleshooting production problems
+- CMDB / ITSM / CSM
+- Performance investigations
+
+Basically:
+
+> I build things, integrate things, automate things and occasionally investigate why everything is on fire.
+
+---
+
+## 🧰 Stuff I actually use
+
+<p>
+  <img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
 ---
 
-<img src="./img/giphy.gif" alt="some random stuff in a blue sky" align="left" width="24.3%" />
+## 📊 The unnecessarily cool GitHub graphs
 
-### What I do in my life?
+Because numbers and colorful graphs make everything look more scientific.
 
-<p>Work at Delfia Tech as ServiceNow Technical Consultant!.</p>
-
-### What technologies can I work with today?
-<img align="left" src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' alt='javascript' />
-<img align="left" src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='html' />
-<img align="left" src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='css' />
-<img align="left" src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' alt='node' />
-<img align="left" src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge' alt='express' />
-<br><br>
-
-### What technologies am I currently studying? 
-<div display="block">
-<img align="left" src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='React' />
-<img align="left" src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D' alt='Vue' />
-<img align="left" src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white' alt='Angular' />
-<img align="left" src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' alt='C' />
-<img align="left" src='https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white' alt='Shell Script' />
-</div>
-<br><br>
-<div>
-<img align="left" src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' alt='MongoDB' />
-<img align="left" src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' alt='MySQL' />
-</div>
-<br><br>
-
-<p>I also have a lot of experience with integrating microsoft Office through VBA and I am an expert in Excel</p>
-<img align="left" src='https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white' alt='Microsoft Office' />
-<img align="left" src='https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white' alt='Microsoft Excel' />
-<br><br>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=oskadoskaposka&theme=tokyonight&hide=prs&show_icons=true&hide_rank=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oskadoskaposka&theme=tokyonight&layout=compact&langs_count=8" alt="Most Used Languages" width="43%" />
+</p>
 
 ---
 
-### My codes
-<!--
-<p>I'm still building my portfolio, adding several simple projects, but that help to understand programming languages even more. You can find some of them <a href="https://oskadoskaposka.github.io/">HERE!</a> </p>
--->
+## 🧪 Things I build / break
 
-<p>I'm still building my portfolio, adding several simple projects, but that help to understand programming languages even more.</a> </p>
+My GitHub is basically a timeline of things I wanted to understand, test or build.
 
-<div display="block">
-<img align='left' src='https://github-readme-stats.vercel.app/api?username=oskadoskaposka&theme=nord&hide=prs&show_icons=true&hide_rank=true' alt='Github Stats' width="48%" /> 
-<img align='left' src='https://github-readme-stats.vercel.app/api/top-langs?username=oskadoskaposka&theme=nord&show_icons=true&layout=compact&langs_count=8' alt='Github Languages' width="43%" />
-</div>
-<br><br><br>
-<br><br><br>
-<br><br><br>
+### ☁️ ServiceNow
 
----
+A big part of my professional life today revolves around the ServiceNow ecosystem.
 
-### My projects
+There are training and experimental projects here on GitHub. Most of the really interesting enterprise code obviously stays where it belongs.
 
-<!-- <p>I've always had great ideas and now I'm working on a scalable and very profitable idea.</p>
+🔗 **[ServiceNow Developer Training](https://github.com/oskadoskaposka/ServiceNow-Developer-Training)**
 
-<p>I also have a project of an exclusive travel agency for the gamer audience that went wrong because of the coronavirus pandemic and that I would be very happy to explain to someone who takes it off the ground and makes it happen.</p> -->
+### 🗃️ My code drawer
 
-Actually I'm focused in pipex, a project to use pipes in bash!
+I also keep a repository with snippets, references and pieces of code that are useful mostly to **future me**.
 
-42 Projects:
+It's not really a project.
 
-<a  href='https://github.com/oskadoskaposka/Libft'>![](./img/libfte.png)</a>
-<a  href='https://github.com/oskadoskaposka/gnl'>![](./img/get_next_linee.png)</a>
-<a  href='https://github.com/oskadoskaposka/ft_printf'>![](./img/ft_printfe.png)</a>
-<a  href=''>![](./img/born2beroote.png)</a>
-<a  href='https://github.com/oskadoskaposka/so_long'>![](./img/so_longe.png)</a>
+It's more like:
+
+> "I know I've solved this before. Where the hell did I put it?"
+
+🔗 **[code-snippets](https://github.com/oskadoskaposka/code-snippets)**
+
+🔗 **[See all my public repositories](https://github.com/oskadoskaposka?tab=repositories)**
 
 ---
 
-### Contact
-<p>To find me, just send a DM:</p>
-<a href='https://discord.gg/fwMgb27Rmh'>
-	<img align="left" src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white' alt='discord' />
+## 🏛️ Ancient artifacts
+
+Before ServiceNow, integrations and production incidents, there was **42**.
+
+And a suspicious amount of C.
+
+These repositories are old, but I'm keeping them because this is where a lot of the madness started.
+
+### [Libft](https://github.com/oskadoskaposka/Libft)
+
+<a href="https://github.com/oskadoskaposka/Libft">
+  <img src="./img/libfte.png" alt="Libft" />
 </a>
-<a href='mailto:alepaduanlima@gmail.com?subject=Oi%20Ale'>
-	<img align="left" src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail' />
+
+### [Get Next Line](https://github.com/oskadoskaposka/gnl)
+
+<a href="https://github.com/oskadoskaposka/gnl">
+  <img src="./img/get_next_linee.png" alt="Get Next Line" />
 </a>
-<a href='https://www.instagram.com/paduan_lima/'>
-	<img align="left" src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' />
+
+### [ft_printf](https://github.com/oskadoskaposka/ft_printf)
+
+<a href="https://github.com/oskadoskaposka/ft_printf">
+  <img src="./img/ft_printfe.png" alt="ft_printf" />
 </a>
-<a href='https://www.linkedin.com/in/alexandre-paduan/'>
-	<img align="left" src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' />
+
+### Born2beroot
+
+<img src="./img/born2beroote.png" alt="Born2beroot" />
+
+### [so_long](https://github.com/oskadoskaposka/so_long)
+
+<a href="https://github.com/oskadoskaposka/so_long">
+  <img src="./img/so_longe.png" alt="so_long" />
 </a>
-<a href='https://www.reddit.com/user/oskadoskaposka/'>
-	<img align="left" src='https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white' alt='reddit' />
-</a>
-<a href='https://api.whatsapp.com/send?phone=5511954507011&text=Oi%20Al%C3%AA!!!'>
-	<img align="left" src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' alt='whatsapp' />
-</a>
+
+### Things survived
+
+`malloc` • pointers • Makefiles • Linux • Bash • C • memory leaks • Norminette
+
+Mostly.
+
+---
+
+## 🧠 Random stuff that saved me more time than it should
+
+This section exists because I constantly forget useful things.
+
+### VS Code — open current file in another window
+
+Press:
+
+`CTRL + K`
+
+release CTRL, then:
+
+`O`
+
+### Makefiles
+
+Having a small `git` rule in a Makefile can be surprisingly useful for repetitive project commits.
+
+### Things I will probably add here later
+
+Commands, weird fixes, shortcuts and random discoveries that were useful enough for me to think:
+
+> "I should write this somewhere before I forget again."
+
+And apparently, this is that somewhere.
+
+---
+
+## 📫 Contact
+
+If you want to talk about development, ServiceNow, integrations, projects or weird technical problems:
+
+- 💼 **LinkedIn:** [alexandre-paduan](https://www.linkedin.com/in/alexandre-paduan/)
+- ✉️ **Email:** [alepaduanlima@gmail.com](mailto:alepaduanlima@gmail.com)
+- 💬 **Discord:** [send me a DM](https://discord.gg/fwMgb27Rmh)
+
+<p>
+  <a href="mailto:alepaduanlima@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/alexandre-paduan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.gg/fwMgb27Rmh">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+---
+
+### See you later! 👋
+
+<img align="right" src="https://komarev.com/ghpvc/?username=oskadoskaposka&color=blueviolet&style=flat&label=people+who+got+lost+here" alt="Visitors badge" />
+
 <br><br>
-
----
-### Hints!
-
-<p>TWO SCREENS VSCODE - A solution is to press CTRL+K and after releasing CTRL, press O. This will open the current file in a new window.</p>
-<p>Make a rule in makefile named git, to easely update commits</p>
-<p>...</p>
----
-
-### See you later!!
-<img align="right" src="https://komarev.com/ghpvc/?username=oskadoskaposka&color=lightgrey&style=flat&label=visitors" alt="Visitors badge" />
-
-<br><br>
-
-
-<!--
-**oskadoskaposka/oskadoskaposka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-Para fazer uma lista para selecionar oq exibir
-<details>
-<summary>Lista</summary>
-Itens
-</details>
-
--->
