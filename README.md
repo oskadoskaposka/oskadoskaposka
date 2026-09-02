@@ -71,8 +71,8 @@ Basically:
 Because numbers and colorful graphs make everything look more scientific.
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=oskadoskaposka&theme=tokyonight&hide=prs&show_icons=true&hide_rank=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oskadoskaposka&theme=tokyonight&layout=compact&langs_count=8" alt="Most Used Languages" width="43%" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" width="48%" />
+  <img src="./profile/top-langs.svg" alt="Most Used Languages" width="43%" />
 </p>
 
 ---
