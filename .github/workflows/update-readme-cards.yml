@@ -43,3 +43,5 @@ jobs:
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
           git push
+
+# Profile cards are generated locally to avoid public endpoint rate limits.
